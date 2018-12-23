@@ -4,7 +4,6 @@
 
 ![This is line chart](linechart.png)
 
-Chart data at https://api.myjson.com/bins/8sqwr
 
 ## Build Setup
 
